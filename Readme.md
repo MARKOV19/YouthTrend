@@ -307,6 +307,12 @@ VITE_API_BASE_URL=http://localhost:4000/api/v1
 See the full [SRS document](docs/YouthTrend_SRS.docx) for detailed requirements and success criteria per phase.
 
 ---
+## Contributors
+
+here is my contribution
+
+- ** NDZANA TITUS ** ([MARKOV19](https://github.com/MARKOV19)) — Contributor
+
 
 ## Contributing
 
